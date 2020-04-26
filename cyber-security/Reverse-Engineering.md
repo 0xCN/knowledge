@@ -12,5 +12,5 @@ Reverse engineering, the process of taking a software program's binary code and 
 - [jadx](https://github.com/skylot/jadx): Dex to Java decompiler
 
 ### Frimware Images
-- [binwalk](https://github.com/ReFirmLabs/binwalk): Firmware Analysis Tool
 Analyzing for bugs and security vulnerabilites
+- [binwalk](https://github.com/ReFirmLabs/binwalk): Firmware Analysis Tool
