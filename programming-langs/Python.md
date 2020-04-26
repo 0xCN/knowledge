@@ -8,14 +8,14 @@ I'm a slut for Python.
 ### Used it for
 - Automations
 - high level Web-Scraping
- - selenium
- - beautifulsoup
- - requests
- - scrapy
- - urllib
+  - selenium
+  - beautifulsoup
+  - requests
+  - scrapy
+  - urllib
 - Web-Development
- - flask
- - django
+  - flask
+  - django
 - Asynchronous Tools
 - CLI/GUI Tools (QT for Python)
 - Cryptography Libraries
