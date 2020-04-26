@@ -11,9 +11,9 @@ LAMP stack huh?
 - Rest APIs
 - Cryptography extension
 - Understanding PHP WebSecurity Vulnerabilities
- - Serialization
- - Path Truncation
- - Type Juggling
- - Loose Comparison
- - Command Injection
- . etc
+  - Serialization
+  - Path Truncation
+  - Type Juggling
+  - Loose Comparison
+  - Command Injection
+  - etc
