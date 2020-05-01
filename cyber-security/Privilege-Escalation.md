@@ -1,8 +1,6 @@
 ## Privilege Escalation
-
-```
 Privilege escalation is the act of exploiting a bug, design flaw or configuration oversight in an operating system or software application to gain elevated access to resources that are normally protected from an application or user.
-```
+
 
 ### Linux
 - [GTFOBins](https://gtfobins.github.io/)

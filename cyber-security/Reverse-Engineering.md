@@ -1,7 +1,6 @@
 ## Reverse Engineering
-```
 Reverse engineering, the process of taking a software program's binary code and recreating it so as to trace it back to the original source code, is being widely used in computer hardware and software to enhance product features or fix certain bugs.
-```
+
 
 ### Android
 - Malware Analyses

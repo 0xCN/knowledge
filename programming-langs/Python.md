@@ -1,9 +1,7 @@
 ## Python
-```
 Python is an interpreted, high-level, general-purpose programming language.
-```
 
-I'm a slut for Python. 
+I'm a PySlut. 
 
 ### Used it for
 - Automations

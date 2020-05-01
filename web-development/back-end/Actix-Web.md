@@ -1,7 +1,5 @@
 ## [Actix Web](https://github.com/actix/actix-web)
-```
 Actix web is a small, pragmatic, and extremely fast rust web framework.
-```
 
     Supported HTTP/1.x and HTTP/2.0 protocols
     Streaming and pipelining

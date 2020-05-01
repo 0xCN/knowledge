@@ -1,12 +1,8 @@
 ## HTML - Hypertext Markup Language
-```
 Hypertext Markup Language is the standard markup language for documents designed to be displayed in a web browser.
-```
 
 ## CSS - Cascading Style Sheets
-```
 Cascading Style Sheets is a style sheet language used for describing the presentation of a document written in a markup language like HTML.
-```
 
 
 ### Some Design Stuff

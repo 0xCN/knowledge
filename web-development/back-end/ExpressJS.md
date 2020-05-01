@@ -1,7 +1,5 @@
 ## [ExpressJS](https://github.com/expressjs/express)
-```
- Fast, unopinionated, minimalist web framework for node.
-```
+Fast, unopinionated, minimalist web framework for node.
 
     Robust routing
     Focus on high performance

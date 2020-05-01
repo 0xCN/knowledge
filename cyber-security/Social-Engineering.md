@@ -1,7 +1,6 @@
 ## Social Engineering
-```
 Social engineering, in the context of information security, is the psychological manipulation of people into performing actions or divulging confidential information.
-```
+
 
 - Phishing
 - Spear Phishing
